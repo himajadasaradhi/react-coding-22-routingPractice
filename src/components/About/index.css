@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.about {
+  height: 300px;
+  width: 300px;
+}
+.about-align {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'roboto';
+}
+h1 {
+  color: #6d396b;
+}
+p {
+  color: #555555;
+  font-weight: 500;
+}

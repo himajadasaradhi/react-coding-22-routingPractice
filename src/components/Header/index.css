@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.flex-row {
+  display: flex;
+  justify-content: space-between;
+}
+.wave-row {
+  display: flex;
+}
+.wave {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+.pages-css {
+  font-family: 'roboto';
+  color: #551e53;
+  margin-right: 10px;
+  font-weight: 600;
+}
+.pages {
+  display: flex;
+  list-style-type: none;
+}

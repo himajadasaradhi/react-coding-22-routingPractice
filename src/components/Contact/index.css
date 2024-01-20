@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.contact {
+  height: 300px;
+  width: 330px;
+}
+.contact-align {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'roboto';
+}
+h1 {
+  color: #6d396b;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.home {
+  height: 300px;
+  width: 300px;
+}
+.home-align {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'roboto';
+}
+h1 {
+  color: #6d396b;
+}

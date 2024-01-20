@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.not-found {
+  height: 300px;
+  width: 330px;
+}
+.not-found-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+h1 {
+  color: #6d396b;
+  font-family: 'roboto';
+}
